@@ -123,8 +123,6 @@ Deploy as an API — Wrap the model in a Flask API so analysts can input financi
 👩‍💻 Author
 Rimjhim Ghawry
 Aspiring Data Analyst | Finance & ML
-📧 your.email@gmail.com
-🔗 linkedin.com/in/yourprofile
 
 📄 Citation
 Zieba, M., Tomczak, S., & Tomczak, J. (2016). Ensemble Boosted Trees with Synthetic Features Generation in Application to Bankruptcy Prediction. Expert Systems with Applications.
